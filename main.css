@@ -57,7 +57,6 @@ body {
   height: 2rem;
   padding: 0.3rem;
   font-size: 1rem;
-  width: 100%;
 }
 
 .input {
@@ -109,11 +108,11 @@ label {
 @media (max-width: 35rem) {
   .survey-form {
     width: 100%;
-    padding: 2.5rem 0.6rem;
+    padding: 2.5rem 0;
   }
 
-  .form-control {
-    width: 90%;
+  .form-group {
+    padding: 0 1rem;
   }
 }
 @media (min-width: 40rem) {
