@@ -80,7 +80,6 @@ label {
   height: 6rem;
   font-size: 1.3rem;
   padding: 0.3rem;
-  max-width: 90%;
 }
 
 .submit-button {
@@ -92,7 +91,6 @@ label {
   font-size: 1rem;
   font-weight: bold;
   color: white;
-  max-width: 94%;
   padding: 0.5rem;
 }
 
@@ -120,7 +118,6 @@ label {
     height: 6rem;
     font-size: 1.3rem;
     padding: 0.3rem;
-    max-width: 100%;
   }
 
   .submit-button {
